@@ -37,3 +37,4 @@
  #### 14. 好用的ui框架 [ant-design](https://ant.design/index-cn)
  #### 15. [函数式编程ramda](http://ramdajs.com/docs/#filter)
  #### 16. [格式化日期控件moment](http://momentjs.cn)
+ #### 17. [大前端工具集](http://www.fefork.com/fetool/)
